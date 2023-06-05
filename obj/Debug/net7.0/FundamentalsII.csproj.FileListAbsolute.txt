@@ -1,0 +1,15 @@
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\bin\Debug\net7.0\FundamentalsII.exe
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\bin\Debug\net7.0\FundamentalsII.deps.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\bin\Debug\net7.0\FundamentalsII.runtimeconfig.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\bin\Debug\net7.0\FundamentalsII.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\bin\Debug\net7.0\FundamentalsII.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.csproj.AssemblyReference.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.AssemblyInfoInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.AssemblyInfo.cs
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.csproj.CoreCompileInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\refint\FundamentalsII.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\FundamentalsII.genruntimeconfig.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FundamentalsII\obj\Debug\net7.0\ref\FundamentalsII.dll
